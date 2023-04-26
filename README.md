@@ -155,4 +155,4 @@
 - SSR이 뭔가요?🔥
 
 ### 17주차 
-- react 사용시 Node.js와 npm의 연관성은 뭔가요?
+- react 사용시 Node.js와 npm, 웹팩의 연관성은 뭔가요?
