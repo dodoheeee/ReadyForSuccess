@@ -59,7 +59,7 @@
 1. 동기 vs. 비동기통신
 2. `rxjs`에 대해서 설명 해주세요.
 
-### 6주차
+### 6주차 ✅
 1. `api manager` 에 대해 설명 해보세요.
 2. Restful API에 대해 설명해주세요.
 3. API 통신에 사용하는 method들을 설명해주세요. (post, put, get, patch 등등)
