@@ -187,7 +187,6 @@
 
 ### 9주차
 - Hooks의 종류 🔥🔥
-- useEffect
 - 리액트에서 setState는 비동기 동작인가요 동기 동작인가요? 🔥
 - setState가 비동기 동작을 취했을 때 얻을 수 있는 이점은 무엇인가요? 🔥
 - useReducer, useMemo,useCallback,useRef,커스텀 Hooks
