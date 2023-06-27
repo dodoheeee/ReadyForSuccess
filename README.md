@@ -193,7 +193,7 @@
 - useMemo와 useCallback의 차이를 아나요 🔥🔥
 - useLayoutEffect는 무엇인가요? 🔥
 
-### 10주차
+### 10주차 ✅
 - SPA가 뭔가요? 특징, 장/단점 🔥
 - SSR이 뭔가요? 특징, 장/단점🔥
 - SSG는 뭔가요?
